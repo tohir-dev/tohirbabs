@@ -39,33 +39,28 @@ function App() {
             <div className="flex flex-col max-w-[500px] w-full gap-2 text-sm">
               <div className="flex w-full gap-5 items-center ">
                 <span>01.</span>
-                <h3 className="flex-1 text-2xl">southsidefoods</h3>
+                <h3 className="flex-1  text-xl lg:text-2xl">southsidefoods</h3>
                 <span>2023</span>
               </div>
               <div className="flex w-full gap-5 items-center">
                 <span>02.</span>
-                <h3 className="flex-1 text-2xl">greeeth</h3>
+                <h3 className="flex-1 text-xl lg:text-2xl">greeeth</h3>
                 <span>2023</span>
               </div>
               <div className="flex w-full gap-5 items-center">
                 <span>03.</span>
-                <h3 className="flex-1 text-2xl">galaria</h3>
+                <h3 className="flex-1  text-xl lg:text-2xl">galaria</h3>
                 <span>2022</span>
               </div>
               <div className="flex w-full gap-5 items-center">
                 <span>04.</span>
-                <h3 className="flex-1 text-2xl">pollshare</h3>
+                <h3 className="flex-1  text-xl lg:text-2xl">pollshare</h3>
                 <span>2022</span>
               </div>
               <div className="flex w-full gap-5 items-center">
                 <span>05.</span>
-                <h3 className="flex-1 text-2xl">font-pair</h3>
+                <h3 className="flex-1  text-xl lg:text-2xl">font-pair</h3>
                 <span>2021</span>
-              </div>
-              <div className="flex w-full gap-5 items-center">
-                <span>06.</span>
-                <h3 className="flex-1 text-2xl">page404</h3>
-                <span>2020</span>
               </div>
             </div>
             <div className="flex gap-8">
