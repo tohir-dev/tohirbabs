@@ -18,7 +18,7 @@ function App() {
             </h1>
           </div>
           <div className="flex items-center gap-1">
-            <h2 className="lg:text-2xl text-lg">creative web developer</h2>
+            <h2 className="lg:text-2xl text-xl">creative web developer</h2>
             <img src="/images/star.svg" alt="" className="w-6 h-6" />
           </div>
         </header>
