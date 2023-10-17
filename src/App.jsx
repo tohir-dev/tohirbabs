@@ -23,7 +23,7 @@ function App() {
           </div>
         </header>
         <body className="flex-1 flex flex-col">
-          <div className="text-right w-full flex flex-col flex-1 items-end justify-center gap-2">
+          <div className="text-right w-full flex flex-col flex-1 items-end justify-center gap-2 text-sm lg:text-base">
             <p className=" max-w-[500px]">
               The goal of font pairing is to select fonts that share an
               overarching theme yet have a pleasing contrast. Which fonts work
