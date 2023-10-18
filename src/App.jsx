@@ -75,7 +75,7 @@ function App() {
             <span>2021</span>
           </div>
         </div>
-        <div className="absolute right-0 lg:w-[58%] w-full h-full flex flex-col gap-2 font-mono bottom-0 ">
+        <div className="absolute bg-black right-0 lg:w-[58%] w-full h-full flex flex-col gap-2 font-mono bottom-0 ">
           <img src="/images/southside.svg" alt="" />
           <div className=" bg-[#d9d9d9] w-full flex-1 flex flex-col text-black p-3">
             <div className="flex flex-1 flex-col-reverse lg:flex-row w-full items-center">
@@ -96,7 +96,7 @@ function App() {
                 <p className="w-full font-bold text-xl">01.</p>
               </div>
             </div>
-            <div className="flex flex-col-reverse lg:flex-row flex-1 w-full items-end">
+            <div className="flex flex-col-reverse lg:flex-row flex-1 gap-2 w-full items-end">
               <div className="flex lg:flex-1 w-full items-center">
                 <div className="flex flex-1 justify-end lg:justify-normal items-center gap-2">
                   <img
