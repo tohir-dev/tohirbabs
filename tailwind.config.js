@@ -6,6 +6,7 @@ export default {
     fontFamily: {
       grotesk: ['"Space Grotesk"'],
       mono: ['"Space Mono"'],
+      pt: ['"PT Mono"'],
     },
   },
   plugins: [],
