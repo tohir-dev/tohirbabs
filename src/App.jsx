@@ -1,8 +1,4 @@
-import { useState } from "react";
-
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
     <div className="bg-black w-screen min-h-screen relative flex flex-col text-white lg:p-4 p-2 font-grotesk  text-sm">
       <header className="flex lg:flex-row flex-col justify-between lg:items-center gap-1">
@@ -79,7 +75,7 @@ function App() {
             <span>2021</span>
           </div>
         </div>
-        {/* <div className="absolute right-0 lg:w-[58%] w-full h-full flex flex-col gap-2 font-mono bottom-0 ">
+        <div className="absolute right-0 lg:w-[58%] w-full h-full flex flex-col gap-2 font-mono bottom-0 ">
           <img src="/images/southside.svg" alt="" />
           <div className=" bg-[#d9d9d9] w-full flex-1 flex flex-col text-black p-3">
             <div className="flex flex-1 flex-col-reverse lg:flex-row w-full items-center">
@@ -130,7 +126,7 @@ function App() {
               </p>
             </div>
           </div>
-        </div> */}
+        </div>
       </main>
     </div>
   );
