@@ -81,7 +81,11 @@ function App() {
             <div className="flex flex-1 flex-col-reverse lg:flex-row w-full items-center">
               <div className="flex lg:items-center gap-2 flex-1 w-full">
                 <h3 className="lg:text-3xl text-2xl">southsidefoods</h3>
-                <img src="/images/shape.svg" alt="" className="w-10 h-10" />
+                <img
+                  src="/images/shape.svg"
+                  alt=""
+                  className="w-8 h-8 lg:w-10 lg:h-10"
+                />
               </div>
               <div className="flex flex-row-reverse items-center flex-1 w-full lg:items-center">
                 <div className="flex w-full h-max items-center gap-2">
