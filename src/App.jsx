@@ -1,4 +1,4 @@
-import { Dashboard } from "./Dashboard";
+import { Portfolio } from "./Portfolio";
 
 function App() {
   return (
@@ -33,7 +33,7 @@ function App() {
     //     </div>
     //   </div>
     // </div>
-    <Dashboard />
+    <Portfolio />
   );
 }
 

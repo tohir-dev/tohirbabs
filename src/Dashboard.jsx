@@ -26,8 +26,8 @@ export const Dashboard = () => {
           </div>
         </div>
         <div className="flex gap-8 relative">
-          <div className="flex flex-col pb-5 justify-between">
-            <div className="flex items-center gap-4">
+          <div className="flex flex-col pb-5 text-xs justify-between">
+            <div className="flex items-center text-xs gap-4">
               <p>50.00</p>
               <div className="w-[92%] absolute left-[8%] border-t-2 border-dashed"></div>
             </div>{" "}
